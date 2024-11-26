@@ -1,23 +1,23 @@
 criaCartao(
     'Geografia',
-    'Em qual continente fica o deserto do Saara?',
-    'O deserto do Saara fica no continente africano.'
+    'Qual o Maior deserto do mundo?',
+    'Antártica'
 )
 
 criaCartao(
-    'Conhecimentos Gerais',
-    'Qual é o animal mais lento do mundo?',
-    'O animal mais lento do mundo é o bicho-preguiça, que se move a uma velocidade média de apenas 0,03 km/h! 🦥'
+    'Mitologia',
+    'Quem deu o fogo para a humanidade',
+    'Prometheus'
 )
 
 criaCartao(
-    'Biologia',
-    'Qual animal é conhecido por ter a língua mais longa em relação ao tamanho do corpo?',
-    'O camaleão é conhecido por ter a língua mais longa em relação ao tamanho do corpo. Sua língua pode ser até duas vezes o comprimento de seu corpo!'
+    'Historia',
+    'Qual o nome completo de Dom Pedro I',
+    'Pedro de Alcântara Francisco Antônio João Carlos Xavier de Paula Miguel Rafael Joaquim José Gonzaga Pascoal Cipriano Serafim de Bragança e Bourbon'
 )
 
 criaCartao(
-    'Conhecimentos Gerais',
-    'Qual país é conhecido como a "terra do sol nascente"?',
-    'O Japão é conhecido como a "terra do sol nascente" devido à sua localização geográfica, onde o sol nasce primeiro em relação ao continente asiático.'
+    'Conhecimentos Geeks',
+    'Qual o apice do poder do homem aranha, segundo os quadrinhos?',
+    'Aranha Fantasma, uma fusão do anti heroi Motoqueiro fantasma com o nosso amigo da vizinhança Homem Aranha '
 )
